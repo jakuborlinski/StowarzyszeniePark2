@@ -6,10 +6,14 @@ meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   rididfzawwm.
 ---
-## Lorem ipsum dolor sit amet, consectetuer
+# 
+
+# Lorem ipsum dolor sit amet, consectetuer
 
 Kashka kocham Cię ..
 
 moge wszystko
 
 ## **bla bla**
+
+![gazetki](/img/dsc_0638.jpg "macinek")
