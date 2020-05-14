@@ -35,6 +35,7 @@ collections:
         label: "zabka Page"
         name: "zabka"
         fields:
+          - {label: Image, name: image, widget: image}
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "zabka-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
