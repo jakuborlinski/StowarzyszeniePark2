@@ -31,6 +31,15 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Meta Title", name: "meta_title", widget: "string"}
           - {label: "Meta Description", name: "meta_description", widget: "text"}
+          file: "src/pages/about2/index.md"
+        label: "About2"
+        name: "about2"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Meta Title", name: "meta_title", widget: "string"}
+          - {label: "Meta Description", name: "meta_description", widget: "text"}
       - file: "src/pages/pricing/index.md"
         label: "Pricing Page"
         name: "pricing"
