@@ -75,3 +75,9 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Meta Title", name: "meta_title", widget: "string"}
       - {label: "Meta Description", name: "meta_description", widget: "text"}
+  - name: "hero"
+    label: "hero"
+    folder: "src/pages/hero"
+    create: true
+    slug: "{{slug}}"
+    - {label: Image, name: image, widget: image}
