@@ -80,4 +80,5 @@ collections:
     folder: "src/pages/hero"
     create: true
     slug: "{{slug}}"
+    fields:
     - {label: Image, name: image, widget: image}
