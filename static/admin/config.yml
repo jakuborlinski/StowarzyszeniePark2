@@ -31,7 +31,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Meta Title", name: "meta_title", widget: "string"}
           - {label: "Meta Description", name: "meta_description", widget: "text"}
-          file: "src/pages/about2/index.md"
+          file: "src/pages/zabka/index.md"
         label: "zabka"
         name: "zabka"
         fields:
