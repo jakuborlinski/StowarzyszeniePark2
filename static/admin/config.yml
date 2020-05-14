@@ -32,7 +32,7 @@ collections:
           - {label: "Meta Title", name: "meta_title", widget: "string"}
           - {label: "Meta Description", name: "meta_description", widget: "text"}
           file: "src/pages/zabka/index.md"
-        label: "zabka"
+        label: "zabka Page"
         name: "zabka"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "zabka-page"}
