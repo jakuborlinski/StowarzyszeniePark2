@@ -1,6 +1,6 @@
 ---
 title: sssa
-image: /img/dsc_0638.jpg
+image: /img/coffee-gear.png
 tags:
   - fda
 date: 2020-05-14T19:09:25.992Z
