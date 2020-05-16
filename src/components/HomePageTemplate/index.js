@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Offerings from '../Offerings'
 import Testimonials from '../Testimonials'
 import PropTypes from 'prop-types'
+import styled from "../HomePageTemplate/styled.sass"
 
 const HomePageTemplate = ({
   title,
@@ -18,7 +19,8 @@ const HomePageTemplate = ({
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
     </Helmet>
-    <section className='hero is-primary is-large '>
+    <section className='hero is-primary is-large has-background '>
+      <img className='hero-background is-transparent' src="https://scontent.fpoz1-1.fna.fbcdn.net/v/t31.0-8/p960x960/17834318_1371321862906996_5936413894776855169_o.jpg?_nc_cat=103&_nc_sid=13bebb&_nc_ohc=NY_W0lZs1aMAX-Of1fI&_nc_ht=scontent.fpoz1-1.fna&_nc_tp=6&oh=f173b299f3f2fdc9e19fe0b20c19d4df&oe=5EE53E28" alt="Fill Murray"></img>
       <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
