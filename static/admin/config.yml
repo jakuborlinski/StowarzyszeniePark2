@@ -75,15 +75,13 @@ collections:
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Meta Title", name: "meta_title", widget: "string"}
       - {label: "Meta Description", name: "meta_description", widget: "text"}
-  # - name: "Hero"
-  #   label: "Hero"
-  #   folder: "src/pages/hero"
-  #   create: false
-  #   slug: "{{slug}}"
-  #   fields:
-  #   - {label: Title, name: title, widget: string}
-  #   - {label: Image, name: image, widget: image}
-  #   - {label: "Tags", name: "tags", widget: "list"}
-  #   - {label: "Publish Date", name: "date", widget: "datetime"}
-  #   - {label: "Meta Title", name: "meta_title", widget: "string"}
-  #   - {label: "Meta Description", name: "meta_description", widget: "text"}
+  - name: "hero"
+    label: "hero Page"
+    folder: "src/pages/hero/"
+    fields:
+      - {label: Image, name: image, widget: image}
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "zabka-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Meta Title", name: "meta_title", widget: "string"}
+      - {label: "Meta Description", name: "meta_description", widget: "text"}
