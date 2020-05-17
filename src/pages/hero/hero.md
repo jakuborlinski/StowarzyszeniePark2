@@ -1,7 +1,7 @@
 ---
 templateKey: hero
-title: hero
-meta_title: hero
+title: hero22
+meta_title: hero22
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   rididfzawwm.ssa
