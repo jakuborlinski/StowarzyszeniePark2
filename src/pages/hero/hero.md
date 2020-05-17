@@ -1,19 +1,19 @@
 ---
 templateKey: hero
 title: hero
-meta_title: Zabka Us | Gatsby Starter Business
+meta_title: hero
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  rididfzawwm.
+  rididfzawwm.ssa
 ---
 #
 
-# Lorem ipsum dolor sit amet, consectetuer
+# Lorem iwwpsum dolor sit amet, consectetuer
 
-Kashka kocham Cię ..
+Kashka kocham Cię ..q
 
-moge wszystko
+moge wszystkoaz
 
-## **bla bla**
+## **bla blccsa**
 
 ![gazetki](/img/dsc_0638.jpg "macinek")
